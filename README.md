@@ -34,3 +34,4 @@ B. Student Module (Exam Attempt & Instant Scoring)
 
 # 5. Project Outcome
 The Online Exam Question Management System demonstrates practical mastery of core Data Structures and Algorithms by turning abstract concepts—such as dynamic memory allocation, linked structures, searching, and traversal—into a complete, working, menu-driven command-line application.
+# https://www.linkedin.com/in/vinay-kumar-162164386/
